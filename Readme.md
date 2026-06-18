@@ -2,7 +2,7 @@
 
 Senior Technical Program Manager | Senior IT Project Manager | Enterprise Program Manager | Senior Scrum Master | PMO & Portfolio Governance Leader | Digital & Cloud Transformation
 
-📍 Dallas, TX (USA) | 📧 al.monteiro.tx@gmail.com  
+📍 Dallas, TX (USA) | Houston, TX (USA) | 📧 al.monteiro.tx@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111
 🔗 Indeed: https://profile.indeed.com/p/alm-d0wcjqr
 
