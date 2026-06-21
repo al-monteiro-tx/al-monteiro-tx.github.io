@@ -17,13 +17,11 @@
 
 # PROFESSIONAL SUMMARY
 
-Senior Technical Program Manager / Enterprise Program Manager / PMO & Portfolio Leader with 15+ years of experience delivering enterprise IT transformation, digital modernization, and large-scale program execution across telecommunications, healthcare, financial services, SaaS, CRM, and regulated enterprise environments.
+Senior Technical Program Manager | Enterprise Program Manager | PMO Director | Portfolio Manager with 15+ years leading enterprise IT transformation, digital transformation, and large-scale program delivery across telecommunications, healthcare, financial services, SaaS, CRM, and regulated enterprise environments. Proven leadership of $11M+ technology portfolios, enterprise program governance, and global cross-functional teams spanning engineering, architecture, infrastructure, data engineering, DevOps, and vendor management.
 
-Proven leadership of **$11M+ technology portfolios**, enterprise governance frameworks, and global cross-functional teams spanning engineering, architecture, infrastructure, data engineering, DevOps, and vendor ecosystems.
+Expert in Customer Relationship Management (CRM) modernization, Lead-to-Cash, Quote-to-Cash, enterprise BI/analytics, data platforms, ETL pipelines, MDM (Master Data Management), data integration, data migration, and enterprise system integration. Strong technical delivery background in Agile, SAFe, Scrum, Waterfall, hybrid SDLC, DevOps, CI/CD pipelines, Go-to-Market, and production deployment governance.
 
-Core expertise includes CRM modernization, Lead-to-Cash, Quote-to-Cash, enterprise BI/analytics, data platforms, ETL pipelines, MDM, and enterprise systems integration.
-
-Strong delivery leadership across Agile, SAFe, Scrum, Waterfall, hybrid SDLC, DevOps, CI/CD, and release governance.
+Skilled in PMO leadership, portfolio governance, program governance, enterprise architecture alignment, roadmap planning, KPI reporting, executive stakeholder management, risk management, dependency management, and delivery assurance. Known for improving delivery predictability, operational transparency, and strategic execution across complex enterprise environments.
 
 ---
 
