@@ -9,7 +9,7 @@
 
 ---
 
-# SENIOR IT PROJECT MANAGER | PROGRAM MANAGER | SENIOR SCRUM MASTER | ENTERPRISE AGILE PROGRAM-PROJECT MANAGER  
+# SENIOR IT PROJECT MANAGER | SENIOR SCRUM MASTER  
 ## Enterprise Program Manager | Portfolio & PMO Leader  
 ### Technology Transformation | Portfolio Governance | Agile SAFe | SaaS | CRM | BI & Data Analytics
 
@@ -17,7 +17,7 @@
 
 # PROFESSIONAL SUMMARY
 
-Senior IT Project Manager | Technical Program Manager | Enterprise Program Manager | PMO Director leading enterprise IT transformation, digital transformation, and large-scale program delivery across telecommunications, healthcare, financial services, SaaS, CRM, and regulated enterprise environments. Proven leadership of enterprise program governance, program and portfolio management, and global cross-functional teams spanning engineering, architecture, infrastructure, data engineering, DevOps, and vendor management.
+Technical Program Manager | Enterprise Program Manager | PMO Director leading enterprise IT transformation, digital transformation, and large-scale program delivery across telecommunications, healthcare, financial services, SaaS, CRM, and regulated enterprise environments. Proven leadership of enterprise program governance, program and portfolio management, and global cross-functional teams spanning engineering, architecture, infrastructure, data engineering, DevOps, and vendor management.
 
 Expert in BI modernization and analytics transformation, enterprise data platforms, CRM Lead-to-Quote and Lead-to-Cash modernization, ETL pipelines, MDM (Master Data Management) capabilities and data governance frameworks, enterprise data migration and conversion, and enterprise system integration. Skilled in delivering data solutions supporting collection, storage, integration, analysis, and reporting of enterprise data while establishing scalable foundations for AI-driven insights and analytics. Strong technical delivery background in Agile, SAFe, Scrum, Waterfall, hybrid SDLC, DevOps, CI/CD pipelines, and production deployment governance.
 
