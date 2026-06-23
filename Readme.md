@@ -1,11 +1,9 @@
 # AL MONTEIRO
 
-<p align="center">
-  <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
-       alt="Al Monteiro" 
-       width="250" 
-       style="max-width: 100%; height: auto; border-radius: 12px;">
-</p>
+<img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
+     alt="Al Monteiro" 
+     width="250" 
+     style="max-width: 100%; height: auto; border-radius: 12px; float: left; margin-right: 20px; margin-bottom: 10px;">
 
 **Dallas, TX Metroplex**  
 ✉️ al.monteiro.tx@gmail.com | Open to Full-time or Contract  
