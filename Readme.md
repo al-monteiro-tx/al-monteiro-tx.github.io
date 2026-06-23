@@ -1,5 +1,3 @@
-# AL MONTEIRO
-
 <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
      alt="Al Monteiro" 
      width="200" 
