@@ -4,7 +4,7 @@
 ✉️ al.monteiro.tx@gmail.com | open to Full-time or Contract
 
 🔗 LinkedIn: [https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111](https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111)
-🔗 GitHub: [https://al-monteiro-tx.github.io/al-monteiro-tx](https://al-monteiro-tx.github.io/al-monteiro-tx/)](https://al-monteiro-tx.github.io/)
+🔗 GitHub: [[https://al-monteiro-tx.github.io/al-monteiro-tx](https://al-monteiro-tx.github.io/al-monteiro-tx/)](https://al-monteiro-tx.github.io/)]
 🔗 Indeed Profile: [https://profile.indeed.com/p/alm-d0wcjqr](https://profile.indeed.com/p/alm-d0wcjqr)
 
 ---
