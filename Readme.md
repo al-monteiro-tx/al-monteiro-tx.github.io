@@ -27,7 +27,7 @@
 
 **Enterprise Program Management | Portfolio & PMO Governance | Senior IT Project Manager**
 
-**SAFe | Agile Delivery | CRM Modernization | BI & Analytics | SaaS Integration | Data Governance**
+**Digital Transformation | CRM Modernization | Order Management Systems | SaaS Integration | Data Migration /Conversion | BI & Analytics | Agile Delivery | Leading SAFe /Scrum**
 
 ---
 
