@@ -6,7 +6,7 @@
        alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
        style="max-width: 100%; width: 180px; height: auto; border-radius: 16px; margin: 16px 0 12px 0;">
   
-
+  <h1>Al Monteiro</h1>
   <p><strong>Dallas, TX Metroplex</strong></p>
   
   <p>
