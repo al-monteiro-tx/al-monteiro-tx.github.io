@@ -10,8 +10,7 @@
   <p><strong>Dallas, TX Metroplex</strong></p>
   
   <p>
-    📞 (972) 693-3111 &nbsp;&nbsp; | &nbsp;&nbsp; 
-    ✉️ al.monteiro.tx@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 
+   ✉️ al.monteiro.tx@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 
     Open to Full-time or Contract
   </p>
 
