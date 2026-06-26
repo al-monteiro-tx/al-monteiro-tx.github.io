@@ -25,7 +25,7 @@
 
 # SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD | TECHNOLOGY TRANSFORMATION LEADER
 
-**Enterprise Program Management | Portfolio & PMO Governance | Senior IT Project Manager**
+**Enterprise Program Management | Portfolio & PMO Governance | Program Manager | Senior IT Project Manager**
 
 **Digital Transformation | Lead-to-Cash (L2C) | CRM Modernization | SDLC | SaaS Integration | Data Migration /Conversion | BI & Analytics | Agile Delivery (Leading SAFe /Scrum)**
 
