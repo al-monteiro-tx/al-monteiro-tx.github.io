@@ -1,49 +1,83 @@
-<img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg"
-     alt="Al Monteiro"
-     width="150"
-     style="max-width: 100%; height: auto; border-radius: 12px; float: left; margin-right: 20px; margin-bottom: 10px;">
+<meta name="description" content="Al Monteiro - Senior Technical Program Manager & SAFe Certified Leader in Dallas TX. 15+ years driving Enterprise Agile Delivery, CRM Modernization, BI Analytics, SaaS Integration, and Technology Transformation.">
+<meta name="keywords" content="Senior Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, Agile Delivery, CRM Modernization, BI Analytics, Technology Transformation, PMO Governance, Verizon, Blue Cross Blue Shield">
 
-**Dallas, TX Metroplex**  
-📞 (972) 693-3111 | ✉️ al.monteiro.tx@gmail.com | Open to Full-time or Contract  
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Al Monteiro",
+  "jobTitle": "Senior Technical Program Manager",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX"
+  },
+  "email": "al.monteiro.tx@gmail.com",
+  "telephone": "(972) 693-3111",
+  "url": "https://al-monteiro-tx.github.io/",
+  "sameAs": [
+    "https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111",
+    "https://profile.indeed.com/p/alm-d0wcjqr"
+  ]
+}
+</script>
 
-🔗 **LinkedIn**: [https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111](https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111)  
-🔗 **GitHub**: [https://al-monteiro-tx.github.io/](https://al-monteiro-tx.github.io/)  
-🔗 **Indeed**: [https://profile.indeed.com/p/alm-d0wcjqr](https://profile.indeed.com/p/alm-d0wcjqr)
+<div align="center">
+  <img src="Al Monteiro - Sr. IT Project Manager Dallas TX.jpg" 
+       alt="Al Monteiro - Senior Technical Program Manager Dallas TX" 
+       style="max-width: 100%; width: 180px; height: auto; border-radius: 16px; margin: 16px 0 12px 0;">
+  
+  <h1>Al Monteiro</h1>
+  <p><strong>Dallas, TX Metroplex</strong></p>
+  
+  <p>
+    📞 (972) 693-3111 &nbsp;&nbsp; | &nbsp;&nbsp; 
+    ✉️ al.monteiro.tx@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp; 
+    Open to Full-time or Contract
+  </p>
+
+  <p>
+    🔗 <strong><a href="https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111">LinkedIn</a></strong> &nbsp;&nbsp; 
+    🔗 <strong><a href="https://al-monteiro-tx.github.io/">GitHub</a></strong> &nbsp;&nbsp; 
+    🔗 <strong><a href="https://profile.indeed.com/p/alm-d0wcjqr">Indeed</a></strong>
+  </p>
+</div>
 
 ---
 
-# SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD | PROGRAM MANAGER | SENIOR IT PROJECT MANAGER
-## Enterprise Program Management | Portfolio & PMO Governance | Technology Transformation Leader
+# SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD | TECHNOLOGY TRANSFORMATION LEADER
 
-### SAFe | Agile Delivery | CRM Modernization | BI & Analytics | SaaS Integration | Data Governance
+**Enterprise Program Management | Portfolio & PMO Governance | Senior IT Project Manager**
+
+**SAFe | Agile Delivery | CRM Modernization | BI & Analytics | SaaS Integration | Data Governance**
 
 ---
 
-# PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
-Enterprise IT Program Manager and Technical Program Management (TPM) leader with 15+ years driving large-scale digital transformations, complex application modernizations, and cloud/SaaS integrations across telecommunications, healthcare, and financial services. Certified SAFe Program Consultant with proven expertise managing multi-million dollar portfolios ($11M+) and directing cross-functional, globally distributed teams spanning software engineering, enterprise architecture, infrastructure, DevOps, and data engineering. 
+Enterprise IT Program Manager and Technical Program Management (TPM) leader with **15+ years** driving large-scale digital transformations, complex application modernizations, and cloud/SaaS integrations across telecommunications, healthcare, and financial services. Certified **SAFe Program Consultant** with proven expertise managing multi-million dollar portfolios ($11M+) and directing cross-functional, globally distributed teams spanning software engineering, enterprise architecture, infrastructure, DevOps, and data engineering.
 
 Track record scaling Agile frameworks (SAFe, Scrum) and hybrid SDLC methodologies to enhance delivery predictability, strengthen executive visibility, and optimize release governance. Strategic technical delivery leader in CRM modernization (Lead-to-Quote, Lead-to-Cash workflows), BI analytics modernization, enterprise data migrations, and establishing scalable infrastructure for data-driven decision-making. Expertise in program increment planning, portfolio roadmapping, RAID risk management, stakeholder alignment, and executive reporting.
 
 ---
 
-# CORE COMPETENCIES
+## CORE COMPETENCIES
 
 **Delivery Frameworks & Methodologies**  
-Scaled Agile (SAFe) Program Management | Scrum Master | Agile Delivery Leadership | Waterfall | Hybrid SDLC | DevOps Pipeline Governance | CI/CD | Program Increment Planning | Release Management
+Scaled Agile (SAFe) Program Management, Scrum Master Certification, Agile Delivery Leadership, Waterfall Project Management, Hybrid SDLC, DevOps Pipeline Governance, CI/CD Automation, Production Release Management, Program Increment Planning, Sprint Execution
 
 **Program & Portfolio Leadership**  
-PMO Leadership & Governance | Strategic Enterprise Roadmapping | Portfolio Financials | Vendor Management | Executive Stakeholder Alignment | RAID Log Management | Risk Escalation | Delivery Predictability Optimization
+PMO Leadership & Governance, Strategic Enterprise Roadmapping, Multi-Year Technology Planning, Resource Capacity Planning, Portfolio Financials Management, Vendor Management, Executive Stakeholder Alignment, Cross-Functional Team Leadership, RAID Log Management (Risks, Assumptions, Issues, Dependencies), Risk Escalation, Delivery Predictability Optimization
 
 **Enterprise Solutions & Platforms**  
-CRM Modernization (Lead-to-Quote, Lead-to-Cash) | SaaS Integration | Master Data Management (MDM) | ETL Pipelines | Data Governance | BI Analytics (Google Looker) | Enterprise Data Migration | OMS / ERP / BSS
+CRM Modernization (Lead-to-Quote, Lead-to-Cash), Lead-to-Opportunity Workflows, SaaS Integration & Governance, Master Data Management (MDM) Frameworks, Data Governance & Compliance, ETL Pipeline Development, Enterprise Data Migration, Data Analytics Modernization, BI Analytics (Google Looker), Order Management Systems (OMS), ERP Systems, Business Support Systems (BSS)
 
 **Technical & Software Tools**  
-Jira Enterprise | Confluence | Rally | Microsoft Project | Visio | SQL | ETL | AWS / Google Cloud | DevOps Pipelines | API Integration | Agile Dashboards
+Jira Enterprise, Confluence, Rally Software, Microsoft Project, Visio, Microsoft 365, Google Workspace, SQL Query Development, ETL Tool Implementation, Data Integration Frameworks, MDM Platforms, Cloud Infrastructure (AWS, Google Cloud), DevOps Pipelines, CI/CD Platforms, Portfolio Management Systems, API Integration, Agile Reporting & Dashboards
 
 ---
 
-# EDUCATION & CERTIFICATIONS
+## EDUCATION & PROFESSIONAL CERTIFICATIONS
 
 - **Master of Business Administration (MBA)** – Marketing, Minor in Finance  
   *LeTourneau University, Dallas, TX*
@@ -56,64 +90,66 @@ Jira Enterprise | Confluence | Rally | Microsoft Project | Visio | SQL | ETL | A
 
 ---
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-## VERGE INFORMATION TECHNOLOGY | Remote, US  
+### VERGE INFORMATION TECHNOLOGY | Remote, US  
 **Technical Project Manager, BI & Analytics Transformation** | Oct 2025 – Feb 2026
-- Directed Business Intelligence modernization and data analytics transformation initiative for **$2M** Verizon Business marketing pre-MVP program, centralizing performance data across enterprise to build scalable foundation for AI-driven ROI insights
-- Governed data solutions roadmap through POC and near-MVP milestones; managed ingestion, storage, integration, curation, and reporting infrastructure
-- Led **Master Data Management (MDM)** strategy and data governance framework initiatives ensuring consistency, accessibility, and regulatory compliance
-- Coordinated technical platform migration from legacy **Tableau** to **Google Looker**; aligned analytics infrastructure with CRM Lead-to-Opportunity workflows
-- Orchestrated cross-functional Agile delivery ceremonies and resolved complex dependencies between business, engineering, and data teams
+- Directed Business Intelligence modernization and data analytics transformation initiative for **$2M** Verizon Business marketing pre-MVP program, centralizing performance data across enterprise to build scalable foundation for AI-driven ROI insights and revenue optimization
+- Governed data solutions roadmap through proof-of-concept (POC) and near-MVP milestones, managing ingestion, storage, integration, curation, and reporting infrastructure; coordinated cross-functional delivery activities to resolve dependencies and mitigate risks
+- Led **Master Data Management (MDM)** strategy and data governance framework initiatives to ensure data consistency, accessibility, and regulatory compliance across multiple business units; established data quality standards and management protocols
+- Coordinated technical platform migration from legacy **Tableau** analytics to **Google Looker** analytics platform; aligned analytics infrastructure with CRM Lead-to-Opportunity business data workflows to enhance decision-making
+- Orchestrated cross-functional Agile delivery ceremonies and stakeholder communication; resolved complex cross-team dependencies between business, engineering, and data teams to maintain delivery momentum
 
-## AKKODIS | Remote, US  
+### AKKODIS | Remote, US  
 **Technical Delivery Manager, Technical Program Management** | Feb 2025 – Sep 2025
-- Oversaw delivery of infrastructure, SaaS, and enterprise application initiatives with structured governance and process discipline
-- Synthesized PMO governance practices that improved executive visibility into milestones, capacity planning, and delivery risks
-- Managed full program lifecycle partnering with engineering, vendors, and business executives
-- Negotiated technology roadmap planning and process improvements to enhance delivery predictability and operational transparency
+- Oversaw delivery stages and execution milestones of infrastructure, SaaS, and enterprise application initiatives; drove execution consistency across business and technology organizations through structured governance and process discipline
+- Synthesized PMO governance practices and program management methodologies that improved executive stakeholder visibility into program milestones, resource constraints, capacity planning, and delivery risks; enhanced decision-making through comprehensive reporting
+- Managed full program lifecycle from initiation through closure, partnering with engineering leads, third-party vendors, change management teams, and business executives to align technical delivery with operational priorities and business objectives
+- Negotiated technology roadmap planning, release readiness validation, and process improvements to enhance delivery predictability and operational transparency; established KPI tracking and quality assurance metrics
 
-## NOBLESOFT SOLUTIONS | Remote, US  
+### NOBLESOFT SOLUTIONS | Remote, US  
 **Agile Delivery Manager / Senior Scrum Master, Technical Program Delivery** | Aug 2023 – Sep 2024
-- Directed Agile delivery for **Blue Cross Blue Shield (BCBS) Florida** CRM and Pega Quote-to-Order transformation initiatives
-- Managed distributed onshore/offshore engineering squads through PI Planning, Scrum of Scrums, backlog refinement, and release coordination
-- Standardized cross-functional program health reporting and **RAID logs** providing executive stakeholders with critical risk insights
-- Oversaw resource planning, KPI tracking, financial monitoring, and budget oversight across complex enterprise programs
+- Directed Agile delivery execution for Blue Cross Blue Shield (BCBS) Florida CRM and Pega Quote-to-Order transformation initiatives; managed distributed onshore and offshore engineering squads through structured program management and sprint execution
+- Managed cross-functional delivery mechanics including resource planning, KPI tracking, financial monitoring, and budget oversight across complex enterprise programs utilizing Agile and hybrid delivery methodologies
+- Federated Scaled Agile ceremonies including Program Increment (PI) Planning, Scrum of Scrums, backlog refinement, and release coordination; aligned program execution with cross-organizational strategic initiatives and business objectives
+- Standardized cross-functional program health reporting and RAID logs across complex portfolios; provided executive stakeholders with critical risk insights and mitigation strategies needed to maximize on-time technical delivery
 
-## VERIZON BUSINESS | Irving, TX  
+### VERIZON BUSINESS | Irving, TX  
 **Technical Delivery Manager, Enterprise Portfolios & Technology Transformation** | Jun 2019 – Jun 2023
-- Spearheaded enterprise-wide technology transformation spanning CRM modernization, DevOps governance, security compliance, and BI analytics
-- Led development of custom corporate portfolio management (CPM) framework and internal delivery intelligence platform using **APIs + ETL pipelines**
-- Delivered executive dashboards consolidating PMO financials, quality metrics, and operational data for portfolio governance
-- Managed strategic multi-year technology roadmapping and **$11M** portfolio investment prioritization
-- Governed DevOps release readiness, CI/CD automation, and production deployment rollouts
-- Audited and secured multi-million-dollar R&D Tax Credit returns in partnership with Corporate Finance
+- Spearheaded enterprise-wide technology transformation initiatives spanning CRM system modernization, DevOps pipeline governance, security compliance, and Business Intelligence analytics; collaborated with executive leadership on portfolio investment priorities and strategic direction
+- Led development and implementation of custom corporate portfolio management (CPM) framework and platform to integrate internal systems with SaaS-based solutions; improved portfolio visibility and governance across all enterprise initiatives
+- Architected and deployed internal enterprise initiatives delivery intelligence platform leveraging APIs and automated ETL pipelines; consolidated PMO financials, quality metrics, and operational performance data into executive dashboards, providing program intake-to-completion transparency
+- Managed strategic planning, multi-year technology roadmapping, and portfolio investment prioritization for enterprise division; aligned business support systems (BSS) and customer-facing systems with long-term corporate strategic goals
+- Governed DevOps release readiness and supervised CI/CD automation, security compliance validation, and multi-team production deployment rollouts; ensured adherence to enterprise change management protocols
+- Audited and secured multi-million-dollar R&D Tax Credit returns; partnered with Corporate Finance to capitalize on high-visibility division incentives
 
-## CREOSPAN | Irving, TX  
+### CREOSPAN | Irving, TX  
 **Senior IT Project Manager, Enterprise Program Management** | Oct 2017 – May 2019
-- Led multi-tier **Lead-to-Order** and **Lead-to-Cash** digital transformation initiatives integrating CRM data ecosystems
-- Structured hybrid Agile-Waterfall delivery frameworks including PI Planning, release management, and Scrum of Scrums
-- Managed complex technical dependencies, RAID logs, and budget tracking using Jira and Confluence
-- Established governance frameworks for release management and production readiness
+- Led multi-tier Lead-to-Order and Lead-to-Cash digital transformation initiatives for Verizon Business; integrated CRM data ecosystems to scale commercial growth and monetize actionable operational sales insights
+- Structured and facilitated hybrid Agile-Waterfall delivery frameworks including Program Increment (PI) Planning, release management cycles, and Scrum of Scrums coordination across highly matrixed, distributed vendor and internal engineering teams
+- Bridged executive strategic planning with engineering execution; managed complex technical dependencies, RAID logs, and budget tracking using enterprise tools (Jira, Confluence) to ensure alignment and transparency
+- Established governance frameworks supporting release management, production readiness, and deployment protocols across complex technical integrations
 
-## CB CONSULTING | Lewisville, TX  
+### CB CONSULTING | Lewisville, TX  
 **Senior IT Project Manager** | May 2016 – Oct 2016
-- Managed **$1.1M** telematics registration modernization program for Toyota Connected using hybrid Agile/Waterfall model
-- Coordinated internal teams and external vendors while establishing release governance and deployment protocols
+- Managed **$1.1M** telematics registration modernization program for Toyota Connected North America client; navigated complex vendor ecosystem using hybrid Agile-Waterfall delivery model
+- Coordinated internal teams and external vendors while establishing governance frameworks supporting release management, production readiness, and deployment protocols
+- Aligned Agile sprint execution with Waterfall release milestones; ensured vendor SOW-aligned delivery execution across all release cycles
 
-## CONSULTING NETWORK GROUP | Richardson, TX  
+### CONSULTING NETWORK GROUP | Richardson, TX  
 **Senior IT Project Manager, Data Migration & Divestiture Lead** | Jun 2015 – Mar 2016
-- Co-directed enterprise data migration for Verizon → Frontier Communications divestiture
-- Managed extraction, transformation, validation, and safe migration of **~1.5M** wholesale broadband records
-- Governed ETL pipeline development, SQL validations, data mapping, and MDM compliance
+- Co-directed enterprise data migration and conversion strategy for Verizon to Frontier Communications multi-state divestiture; successfully transitioned critical wholesale telecom Order-to-Bill workflows while maintaining business continuity
+- Managed extraction, transformation, validation, and safe migration of **~1.5M** wholesale broadband records; preserved data quality and regulatory compliance against strict Master Data Management (MDM) frameworks and telecom industry standards
+- Managed end-to-end program lifecycle governing project budgeting, ETL pipeline development, SQL data validations, comprehensive data mapping matrices, mock run execution, and executive milestone reporting
 
-## CVS CAREMARK | Richardson, TX  
+### CVS CAREMARK | Richardson, TX  
 **Senior Technical Project Manager, Advisor** | Sep 2013 – Jun 2015
-- Directed **$4M** enterprise integration initiative mapping BCBS Texas health plan data into Caremark PBM systems
-- Orchestrated CRM modernizations, secure data migrations, and SaaS platform rollouts under healthcare regulatory compliance
-- Partnered with PMO leadership to define delivery governance, risk escalation, and executive transparency dashboards
+- Directed **$4M** enterprise integration initiative mapping Blue Cross Blue Shield (BCBS) Texas health plan data into Caremark PBM core systems to support scalable benefit administration and operational service delivery
+- Orchestrated cross-functional team execution of CRM system modernizations, secure enterprise data migrations, and third-party SaaS platform rollouts under time-sensitive healthcare regulatory compliance frameworks
+- Partnered with PMO leadership to define strict delivery governance frameworks, risk escalation protocols, and executive transparency dashboards; significantly improved delivery predictability and stakeholder confidence
 
 ---
 
 *Open to full-time and contract opportunities in the Dallas/Fort Worth Metroplex and remote roles.*  
-*Last updated: June 2026*
+
+**Last updated: June 2026**
