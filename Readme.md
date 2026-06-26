@@ -12,7 +12,7 @@
 
 ---
 
-# SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD  
+# SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD | PROGRAM MANAGER | SENIOR IT PROJECT MANAGER
 ## Enterprise Program Management | Portfolio & PMO Governance | Technology Transformation Leader
 
 ### SAFe | Agile Delivery | CRM Modernization | BI & Analytics | SaaS Integration | Data Governance
