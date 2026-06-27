@@ -1,34 +1,31 @@
 <meta name="description" content="Al Monteiro - Dallas TX (al.monteiro.tx@gmail.com) - Senior Technical Program Manager | Enterprise Agile Delivery Lead | Technology Transformation Leader | Enterprise Program Management | Portfolio & PMO Governance | Senior IT Project Manager | 15+ years in Enterprise Agile Delivery, Digital Transformation, CRM Modernization, BI Analytics, and Technology Transformation">
-<meta name="keywords" content="Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, CRM Modernization, Agile Delivery, BI Analytics, Verizon Business, CVS Caremark, Frontier Communications, Blue Cross Blue Shield, Toyota Connected North America, Dallas TX, Dallas Texas, Plano TX">
+<meta name="keywords" content="Technical Program Manager, SAFe Program Consultant, IT Project Manager Dallas, CRM Modernization, Agile Delivery, BI Analytics, Verizon Business, CVS Caremark, Frontier Communications, Blue Cross Blue Shield, Toyota Connected North America, Dallas TX, Dallas Texas, Plano TX, United States">
 
 <div align="center">
-  <img src="Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg" 
-       alt="Al Monteiro Dallas TX, Dallas Texas, Senior Technical Program Manager, Enterprise Agile Delivery Lead, Technology Transformation Leader, Enterprise Program Management, Portfolio, PMO Governance, Senior IT Project Manager, Program Manager, Digital Transformation, Lead-to-Cash (L2C), CRM Modernization, SDLC, SaaS Integration, Data Migration, Data Conversion, BI and Analytics, Agile Delivery, Leading SAFe, Scrum" 
+  <img src="Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg"
+       alt="Al Monteiro Dallas TX, Dallas Texas, Senior Technical Program Manager, Enterprise Agile Delivery Lead, Technology Transformation Leader, Enterprise Program Management, Portfolio, PMO Governance, Senior IT Project Manager, Program Manager, Digital Transformation, Lead-to-Cash (L2C), CRM Modernization, SDLC, SaaS Integration, Data Migration, Data Conversion, BI and Analytics, Agile Delivery, Leading SAFe, Scrum"
        style="max-width: 100%; width: 180px; height: auto; border-radius: 16px; margin: 16px 0 12px 0;">
-  
+ 
   <h1>Al Monteiro</h1>
-  <p><strong>Dallas, TX Metroplex</strong></p>
-  
+  <p><strong>Dallas, TX Metroplex, United States</strong></p>
+ 
   <p>
-   ✉️ <a href="mailto:al.monteiro.tx@gmail.com">al.monteiro.tx@gmail.com</a> &nbsp;&nbsp; | &nbsp;&nbsp; 
+   ✉️ <a href="mailto:al.monteiro.tx@gmail.com">al.monteiro.tx@gmail.com</a> &nbsp;&nbsp; | &nbsp;&nbsp;
     Open to Full-time or Contract
   </p>
-
   <p>
-    🔗 <strong><a href="https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111">LinkedIn</a></strong> &nbsp;&nbsp; 
-    🔗 <strong><a href="https://al-monteiro-tx.github.io/">GitHub</a></strong> &nbsp;&nbsp; 
+    🔗 <strong><a href="https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111">LinkedIn</a></strong> &nbsp;&nbsp;
+    🔗 <strong><a href="https://al-monteiro-tx.github.io/">GitHub</a></strong> &nbsp;&nbsp;
   </p>
 </div>
-
 ---
-
 # SENIOR TECHNICAL PROGRAM MANAGER | ENTERPRISE AGILE DELIVERY LEAD | TECHNOLOGY TRANSFORMATION LEADER
-
 **Enterprise Program Management | Portfolio & PMO Governance | Program Manager | Senior IT Project Manager**
-
 **Digital Transformation | Lead-to-Cash (L2C) | CRM Modernization | SDLC | SaaS Integration | Data Migration /Conversion | BI & Analytics | Agile Delivery (Leading SAFe /Scrum)**
-
 ---
+## PROFESSIONAL SUMMARY
+Enterprise IT Program Manager and Technical Program Management (TPM) leader with **15+ years** driving large-scale digital transformations, complex application modernizations, and cloud/SaaS integrations across telecommunications, healthcare, and financial services in the **United States**. Certified **SAFe Program Consultant** with proven expertise managing multi-million dollar portfolios ($11M+) and directing cross-functional, globally distributed teams spanning software engineering, enterprise architecture, infrastructure, DevOps, and data engineering.
+...
 
 ## PROFESSIONAL SUMMARY
 
