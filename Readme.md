@@ -1,41 +1,42 @@
 # Al Monteiro
 
-**Senior Technical Program Manager | Enterprise Agile Delivery Lead | Technology Transformation Architect**
+**Senior Technical Program Manager | Enterprise Agile Delivery Lead | Technology Transformation Leader**
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Al+Monteiro+-+Driving+Enterprise+Technology+Transformation)  
-*(Replace with a professional banner image URL)*
-
----
-
-### Driving Complex Technology Transformations with Strategic Precision
-
-With **15+ years** of proven leadership in the telecommunications, healthcare, and financial services sectors, Al Monteiro has earned a reputation as a trusted **Technical Program Management** expert who turns ambitious digital visions into successful, scalable realities.
-
-From modernizing enterprise CRM systems and Lead-to-Cash workflows to orchestrating large-scale data analytics transformations and cloud integrations, Al consistently delivers high-impact results for Fortune-level organizations while building disciplined, high-performing delivery organizations.
+Dallas, TX Metroplex | (972) 693-3111 | [al.monteiro.tx@gmail.com](mailto:al.monteiro.tx@gmail.com)  
+[LinkedIn](https://linkedin.com/in/al-monteiro-tx) | [Full Resume →](https://al-monteiro-tx.github.io/)
 
 ---
 
-### Leadership Philosophy
+### Executive Profile
 
-"I believe technology transformation succeeds when strategy, execution discipline, and people leadership converge. My approach combines Scaled Agile excellence with rigorous PMO governance to deliver predictable outcomes and measurable business value."
+A results-oriented **Technical Program Management** leader with **15+ years** of experience delivering complex, high-stakes technology transformations in telecommunications, healthcare, and enterprise environments. 
 
----
-
-### Signature Strengths
-
-- **Enterprise-Scale Delivery**: Led multi-million-dollar portfolios ($11M+) with cross-functional, globally distributed teams
-- **Agile Transformation**: Scaled SAFe and hybrid methodologies that dramatically improve predictability and executive confidence
-- **Digital Modernization**: Deep expertise in CRM (Lead-to-Quote/Lead-to-Cash), BI/Analytics platforms, Master Data Management, and SaaS integrations
-- **Strategic Governance**: Built custom portfolio management frameworks and delivery intelligence platforms that provide real-time visibility to executive leadership
+Al Monteiro specializes in bridging strategy and execution — scaling Agile frameworks (SAFe), strengthening PMO governance, and leading CRM modernizations, data analytics platforms, and enterprise integrations that drive measurable business outcomes.
 
 ---
 
-### Career Highlights
+### Core Value Drivers
 
-- Spearheaded **$2M** Business Intelligence and data analytics modernization for Verizon Business, laying the foundation for AI-powered revenue optimization
-- Architected and deployed enterprise portfolio management platforms and automated delivery intelligence dashboards, transforming PMO visibility and decision-making
-- Directed CRM and Quote-to-Order transformations for Blue Cross Blue Shield Florida using Scaled Agile practices
-- Led critical enterprise data migrations (including ~1.5 million records) during major telecom divestitures while maintaining uninterrupted operations
+**Strategic Program Leadership**  
+- Managed multi-million-dollar portfolios ($11M+) with full accountability for scope, schedule, budget, and risk  
+- Built and governed enterprise PMO frameworks that enhanced executive visibility and delivery predictability  
+
+**Agile & Digital Transformation**  
+- Expert in Scaled Agile (SAFe) implementation, hybrid SDLC, and DevOps governance  
+- Led large-scale CRM (Lead-to-Quote / Lead-to-Cash) modernizations and BI/Analytics transformations  
+
+**Enterprise Delivery Excellence**  
+- Master Data Management (MDM) and complex data migration initiatives  
+- SaaS integration, cloud platform delivery, and cross-functional team leadership (onshore + offshore)
+
+---
+
+### Selected Impact
+
+- Directed **$2M** Business Intelligence modernization for Verizon Business, creating a scalable data foundation for AI-driven insights and revenue optimization.  
+- Designed and deployed a custom Corporate Portfolio Management platform with automated ETL pipelines and executive dashboards — significantly improving PMO transparency and decision-making.  
+- Led Agile delivery for Blue Cross Blue Shield Florida’s CRM and Pega Quote-to-Order transformation programs.  
+- Successfully executed major enterprise data migrations (~1.5M records) during high-visibility telecom divestitures while maintaining full regulatory compliance and business continuity.
 
 ---
 
@@ -49,22 +50,15 @@ From modernizing enterprise CRM systems and Lead-to-Cash workflows to orchestrat
 - SAFe Certified Agilist – Scaled Agile, Inc.  
 - Certified Scrum Master (CSM) – Scrum Alliance  
 
-**Locations**  
-Dallas, TX Metroplex (open to local hybrid and fully remote opportunities)
-
 ---
 
 ### Let's Connect
 
-Open to strategic conversations with organizations seeking a seasoned **Technical Program Manager**, **Agile Delivery Leader**, or **PMO Transformation** expert who delivers both technical excellence and business impact.
+Currently open to full-time and contract opportunities for **Technical Program Manager**, **Enterprise Agile Delivery Lead**, and **PMO Transformation** roles in the Dallas Metroplex and remotely.
 
-- **Detailed Professional Resume**: [View Full Experience →](https://al-monteiro-tx.github.io/)
-- **LinkedIn**: [Connect with Al](https://linkedin.com/in/al-monteiro-tx)
-- **Email**: al.monteiro.tx@gmail.com
+Interested in partnering with organizations that value disciplined execution and transformative technology leadership?
 
----
-
-*"Transforming complexity into clarity. Delivering technology that drives real business momentum."*
+→ **[View Full Professional Resume](https://al-monteiro-tx.github.io/)**
 
 ---
 
