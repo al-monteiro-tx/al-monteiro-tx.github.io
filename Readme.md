@@ -36,7 +36,6 @@ From modernizing enterprise CRM systems and Lead-to-Cash workflows to orchestrat
 - Architected and deployed enterprise portfolio management platforms and automated delivery intelligence dashboards, transforming PMO visibility and decision-making
 - Directed CRM and Quote-to-Order transformations for Blue Cross Blue Shield Florida using Scaled Agile practices
 - Led critical enterprise data migrations (including ~1.5 million records) during major telecom divestitures while maintaining uninterrupted operations
-- Consistently promoted through progressive leadership roles at Verizon, rising to Group Manager / Associate Director level
 
 ---
 
