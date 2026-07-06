@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Dallas, TX Metroplex, United States** | (972) 693-3111 | [al.monteiro.tx@gmail.com](mailto:al.monteiro.tx@gmail.com)  
+**Dallas Texas Metroplex, United States** | (972) 693-3111 | [al.monteiro.tx@gmail.com](mailto:al.monteiro.tx@gmail.com)  
 [LinkedIn](https://linkedin.com/in/al-monteiro-tx)
 [Full Resume →](https://al-monteiro-tx.github.io/)
 
