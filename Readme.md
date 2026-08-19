@@ -1,77 +1,622 @@
-# Al Monteiro
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta name="google-site-verification" content="ckjqY1D38mYx99XQqq5JvAdTxygBDPuZVXwrahbsn-U" />
 
-**Senior Technical Program Manager**  
-**Enterprise Agile Delivery Lead | Technology Transformation Leader**
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R1LLFVLH91"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-R1LLFVLH91');
+    </script>
 
----
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<div align="center">
+    <title>Al Monteiro</title>
 
-**Dallas Texas Metroplex, United States** | (972) 693-3111 | [al.monteiro.tx@gmail.com](mailto:al.monteiro.tx@gmail.com)  
-[LinkedIn](https://linkedin.com/in/al-monteiro-tx)
-[Full Resume →](https://al-monteiro-tx.github.io/)
+    <meta name="description" content="Al Monteiro is a Technical Program Manager and Senior IT Project Manager in the Dallas TX Metroplex with extensive experience delivering enterprise software, data, analytics, cloud, systems integration, CRM, Lead-to-Cash, Agile, SAFe, SDLC, portfolio management, and PMO governance programs across telecommunications, healthcare, and PBM environments.">
 
-</div>
+    <meta name="keywords" content="Technical Program Manager, TPM, Senior Technical Program Manager, Senior IT Project Manager, Technical Project Manager, Agile Delivery Manager, Technical Delivery Manager, Senior Scrum Master, Program Manager, IT Project Manager, Enterprise Program Management, Technology Transformation, SDLC, Software Development Lifecycle, Agile, SAFe, Scrum, Waterfall, Hybrid SDLC, PMO Governance, Portfolio Management, Enterprise Roadmapping, Technology Planning, CRM Modernization, Lead-to-Cash, Lead-to-Order, Lead-to-Quote, Quote-to-Order, Lead-to-Opportunity, SaaS Integration, API Integration, Cloud Infrastructure, DevOps, CI/CD, Data Migration, ETL, ELT, Master Data Management, MDM, Data Governance, Business Intelligence, BI Analytics, Google Looker, Google Data Studio, SQL, Order Management Systems, OMS, ERP, Business Support Systems, BSS, Verizon Business, CVS Caremark, Toyota Connected, BCBS Florida, BCBS Texas, Jira, Confluence, Rally, Smartsheet, Microsoft Project, SharePoint, Planview, Dallas TX, Plano TX, Irving TX, Richardson TX, Lewisville TX, Frisco TX, Fort Worth TX">
 
----
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Al Monteiro">
 
-### Professional Background
+    <link rel="canonical" href="https://al-monteiro-tx.github.io/">
 
-Al Monteiro is a seasoned **Technical Program Management** leader with more than 15 years of experience delivering large-scale digital transformations across telecommunications, healthcare, and enterprise technology sectors. 
+    <!-- Open Graph -->
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="Al Monteiro">
+    <meta property="og:description" content="Technical Program Manager (TPM) | Senior IT Project Manager | Dallas TX Metroplex US">
+    <meta property="og:image" content="https://raw.githubusercontent.com/al-monteiro-tx/al-monteiro-tx.github.io/main/Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg">
+    <meta property="og:url" content="https://al-monteiro-tx.github.io/">
+    <meta property="og:site_name" content="Al Monteiro | Technical Program Manager | Dallas TX">
+    <meta property="profile:first_name" content="Al">
+    <meta property="profile:last_name" content="Monteiro">
 
-Known for combining strategic vision with rigorous execution, Al has built a track record of successfully leading multi-million-dollar programs, modernizing core business systems (CRM, Lead-to-Cash), and establishing high-performing Agile delivery organizations that consistently exceed stakeholder expectations.
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Al Monteiro | Technical Program Manager (TPM) | Senior IT Project Manager">
+    <meta name="twitter:description" content="Technical Program Manager and Senior IT Project Manager specializing in enterprise technology transformation, Agile and SAFe delivery, cloud, data, systems integration, CRM, SDLC, and PMO governance.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/al-monteiro-tx/al-monteiro-tx.github.io/main/Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg">
 
----
+    <style>
+        :root {
+            --text: #262626;
+            --heading: #14213d;
+            --accent: #1a3e6f;
+            --muted: #555;
+            --rule: #e2e2e2;
+            --background: #ffffff;
+        }
 
-### Signature Capabilities
+        * {
+            box-sizing: border-box;
+        }
 
-**🚀 Program & Portfolio Leadership**  
-- End-to-end ownership of $11M+ technology portfolios  
-- PMO governance, strategic roadmapping, and executive stakeholder management  
-- RAID risk management and delivery predictability optimization  
+        html {
+            scroll-behavior: smooth;
+        }
 
-**🔄 Agile Transformation & Delivery**  
-- Scaled Agile Framework (SAFe) implementation and Program Increment planning  
-- Hybrid SDLC and DevOps/CI-CD governance  
-- Cross-functional leadership of distributed engineering, data, and architecture teams  
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            max-width: 920px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.65;
+            color: var(--text);
+            background: var(--background);
+        }
 
-**💼 Enterprise Technology Expertise**  
-- CRM Modernization (Lead-to-Quote / Lead-to-Cash)  
-- BI & Analytics transformations (Google Looker migrations)  
-- Master Data Management (MDM) and large-scale data migrations  
-- SaaS integration and cloud platform delivery  
+        img.profile {
+            max-width: 100px;
+            width: 100%;
+            border-radius: 16px;
+            display: block;
+            margin: 20px auto;
+        }
 
----
+        header.header {
+            text-align: center;
+        }
 
-### Key Achievements
+        .contact {
+            text-align: center;
+            margin-bottom: 6px;
+        }
 
-- Led **$2M** Business Intelligence modernization initiative for Verizon Business, establishing a scalable analytics foundation for AI-powered revenue optimization.  
-- Architected enterprise portfolio management platforms and automated delivery intelligence dashboards, dramatically improving PMO visibility and governance.  
-- Directed Agile delivery for Blue Cross Blue Shield Florida CRM and Pega Quote-to-Order transformations.  
-- Managed complex enterprise data migrations involving ~1.5 million records during major telecom divestitures with zero business disruption.
+        .tagline {
+            text-align: center;
+            color: var(--muted);
+            font-size: 1.85rem;
+            max-width: 820px;
+            margin: 10px auto 0;
+        }
 
----
+        section {
+            margin: 35px 0;
+        }
 
-### Credentials
+        h1 {
+            color: var(--heading);
+            margin-bottom: 4px;
+            line-height: 1.3;
+        }
 
-**Education**  
-- **MBA** – Marketing, Minor in Finance | LeTourneau University  
-- **BBA** | LeTourneau University  
+        h2 {
+            color: var(--heading);
+            border-bottom: 2px solid var(--rule);
+            padding-bottom: 6px;
+        }
 
-**Certifications**  
-- **SAFe Certified Agilist** – Scaled Agile, Inc.  
-- **Certified Scrum Master (CSM)** – Scrum Alliance  
+        h3 {
+            color: var(--heading);
+            margin-bottom: 2px;
+        }
 
----
+        .role-meta {
+            margin-top: 0;
+            color: var(--accent);
+        }
 
-### Open to Opportunities
+        ul {
+            margin-top: 8px;
+        }
 
-Currently seeking **Technical Program Manager**, **Enterprise Agile Delivery Lead**, and **PMO Leadership** roles in the Dallas Metroplex and remote environments.
+        li {
+            margin-bottom: 7px;
+        }
 
-**Ready to drive your next major technology transformation with discipline and impact.**
+        a {
+            color: var(--accent);
+        }
 
-→ **[View Detailed Professional Resume](https://al-monteiro-tx.github.io/)**
+        article {
+            margin-bottom: 30px;
+        }
 
----
+        footer {
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.85rem;
+            margin: 40px 0 10px;
+            border-top: 1px solid var(--rule);
+            padding-top: 16px;
+        }
 
-*Last updated: July 2026*
+        @media (max-width: 600px) {
+            body {
+                padding: 15px;
+                line-height: 1.55;
+            }
+
+            h1 {
+                font-size: 1.65rem;
+            }
+
+            h2 {
+                font-size: 1.3rem;
+            }
+
+            .tagline {
+                font-size: 1.7rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="header">
+
+    <img
+        src="https://raw.githubusercontent.com/al-monteiro-tx/al-monteiro-tx.github.io/main/Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg"
+        class="profile"
+        alt="Al Monteiro, Technical Program Manager and Senior IT Project Manager in Dallas TX Metroplex US"
+    >
+
+    <h1>Al Monteiro</h1>
+
+    <p class="tagline">
+         Technical Program Manager (TPM) | Senior IT Project Manager | Dallas TX Metroplex US
+    </p>
+
+    <div class="contact">
+        <a href="mailto:al.monteiro.tx@gmail.com">al.monteiro.tx@gmail.com</a> |
+        <a href="tel:+19726933111">(972) 693-3111</a> |
+        <a href="https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+
+</header>
+
+<section>
+    <h2>Professional Summary</h2>
+
+    <ul>
+        <li>
+            Technical Program Manager (TPM) / Senior IT Project Manager / Technical Project Manager
+            with experience delivering enterprise software, infrastructure, data, analytics, cloud
+            enablement and integration, and systems-integration programs across Telecommunications,
+            Health Insurance, and Pharmacy Benefits Management (PBM). Leads cross-functional engineering,
+            data, infrastructure, security, business, and vendor teams through the full software
+            development life cycle (SDLC), from strategic roadmaps and program planning through
+            Agile execution, release readiness, deployment, and production implementation.
+        </li>
+
+        <li>
+            Experienced in Agile, SAFe, Scrum, Waterfall, and hybrid delivery environments, with
+            expertise in enterprise modernization, CRM, Lead-to-Cash (L2C), Quote-to-Order,
+            SaaS integration, API integration, cloud integration, DevOps, CI/CD, data migration,
+            ETL, ELT, Master Data Management (MDM) Golden Source, data governance, security compliance,
+            and BI/analytics modernization. Drives program delivery through dependency and risk
+            management, RAID governance, resource and capacity planning, financial tracking,
+            executive stakeholder alignment, vendor management, and executive reporting.
+        </li>
+
+        <li>
+            Hands-on experience with Jira, Confluence, Rally, Smartsheet, Microsoft Project, Visio,
+            SharePoint, Google Workspace, Microsoft 365, Excel PivotTables, Google Data Studio,
+            Google Looker, and portfolio reporting dashboards to improve delivery visibility,
+            alignment, and execution across complex enterprise programs. Familiar with SQL for
+            data validation, query review, and coordination with data engineering teams.
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Core Competencies</h2>
+
+    <p>
+        <b>Delivery Frameworks &amp; Methodologies:</b>
+        Scaled Agile (SAFe) Program Management, Scrum Master Certification, Agile Delivery Leadership,
+        Waterfall Project Management, Hybrid SDLC, DevOps Pipeline Governance, CI/CD Automation,
+        Production Release Management, Program Increment Planning, Sprint Execution
+    </p>
+
+    <p>
+        <b>Program &amp; Portfolio Leadership:</b>
+        PMO Leadership &amp; Governance, Strategic Enterprise Roadmapping, Multi-Year Technology Planning,
+        Resource Capacity Planning, Portfolio Financials Management, Vendor Management,
+        Executive Stakeholder Alignment, Cross-Functional Team Leadership,
+        RAID Log Management (Risks, Assumptions, Issues, Dependencies), Risk Escalation,
+        Delivery Predictability Optimization
+    </p>
+
+    <p>
+        <b>Enterprise Solutions &amp; Platforms:</b>
+        CRM Modernization (Lead-to-Quote, Lead-to-Cash), Lead-to-Opportunity Workflows,
+        SaaS Integration &amp; Governance, Master Data Management (MDM) Frameworks,
+        Data Governance &amp; Compliance, ETL Pipeline Development, Enterprise Data Migration,
+        Data Analytics Modernization, BI Analytics (Data Studio, Google Looker),
+        Order Management Systems (OMS), ERP Systems, Business Support Systems (BSS)
+    </p>
+
+    <p>
+        <b>Technical &amp; Software Tools:</b>
+        Jira Enterprise, Confluence, Rally Software, Microsoft Project, Visio, Microsoft 365,
+        Google Workspace, SQL Query Development, ETL Tool Implementation, Data Integration Frameworks,
+        MDM Platforms, DevOps Pipelines, CI/CD Platforms, Portfolio Management Systems,
+        API Integration, Agile Reporting &amp; Dashboards
+    </p>
+</section>
+
+<section>
+    <h2>Education &amp; Professional Certifications</h2>
+
+    <ul>
+        <li>MBA – Marketing, Minor in Finance | LeTourneau University | Dallas, TX</li>
+        <li>Bachelor of Business Administration (BBA) | LeTourneau University | Dallas, TX</li>
+        <li>Scaled Agile Framework - SAFe Certified Agilist | Scaled Agile, Inc.</li>
+        <li>Certified Scrum Master (CSM) | Scrum Alliance</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Professional Experience</h2>
+
+    <article>
+        <h3>Verge IT (Contract) | Remote, US</h3>
+        <p class="role-meta">
+            <strong>Technical Project Manager, BI &amp; Analytics Transformation | Oct 2025 – Feb 2026</strong>
+        </p>
+
+        <ul>
+            <li>
+                Led delivery of a $2M Verizon Business marketing analytics modernization initiative,
+                consolidating business performance data to establish a foundation for improved
+                reporting and future AI-driven insights.
+            </li>
+            <li>
+                Managed delivery activities across data ingestion, storage, integration, data curation,
+                and reporting workstreams, coordinating technical teams to track dependencies,
+                resolve delivery issues, and support milestone completion.
+            </li>
+            <li>
+                Supported Master Data Management (MDM) and data governance initiatives by coordinating
+                business, engineering, and data teams to improve data consistency, accessibility,
+                and compliance practices.
+            </li>
+            <li>
+                Collaborated on migration planning from a legacy-to-modern BI platform, aligning
+                reporting capabilities with CRM Lead-to-Opportunity business processes.
+            </li>
+            <li>
+                Facilitated Agile delivery activities, stakeholder communication, and cross-team
+                dependency management between business, engineering, and analytics teams.
+            </li>
+            <li>
+                Collaborated and documented a cloud data migration approach, including delivery
+                considerations, security requirements, and implementation dependencies to support
+                analytics and AI capabilities.
+            </li>
+            <li>
+                Provided weekly executive program updates using Smartsheet reporting, communicating
+                workstream progress, milestone completion, risks, issues, funding burn rate,
+                vendor activities, and upcoming PI milestones requiring stakeholder review.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Akkodis (Contract) | Remote, US</h3>
+        <p class="role-meta">
+            <strong>Technical Delivery Manager, Technical Program Management | Feb 2025 – Sep 2025</strong>
+        </p>
+
+        <ul>
+            <li>
+                Managed delivery activities for infrastructure, SaaS, and enterprise application
+                initiatives, coordinating business and technical teams to support successful
+                execution of program milestones.
+            </li>
+            <li>
+                Improved PMO reporting and governance by standardizing program status updates,
+                resource planning, delivery tracking, risks, dependencies, and executive reporting practices.
+            </li>
+            <li>
+                Managed program activities from initiation through delivery by partnering with
+                engineering teams, vendors, business stakeholders, and change management teams
+                to align technical execution with business priorities.
+            </li>
+            <li>
+                Supported technology roadmap planning, release readiness activities, process
+                improvements, and KPI reporting to improve delivery visibility and execution consistency.
+            </li>
+            <li>
+                Published weekly executive program status reports through SharePoint, providing
+                senior leadership visibility into delivery progress, PI milestones, RAID items,
+                funding burn rate, and key program risks across strategic initiatives.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Noblesoft Solutions (Contract) | Remote, US</h3>
+        <p class="role-meta">
+            <strong>Agile Delivery Manager / Senior Scrum Master, Technical Program Delivery | Aug 2023 – Sep 2024</strong>
+        </p>
+
+        <ul>
+            <li>
+                Led Agile delivery for BCBS Florida's legacy Quote System conversion to a modern
+                Quote-to-Order platform, coordinating onshore and offshore engineering teams
+                through sprint planning, backlog execution, dependency management, and production
+                release activities.
+            </li>
+            <li>
+                Managed daily program delivery activities including resource coordination, vendor
+                communication, delivery tracking, risk management, and executive reporting across
+                multiple workstreams supporting the modernization effort.
+            </li>
+            <li>
+                Facilitated SAFe delivery practices including Program Increment (PI) Planning,
+                Scrum of Scrums, backlog refinement, dependency reviews, and release planning
+                to maintain alignment between technical teams and business priorities.
+            </li>
+            <li>
+                Standardized Rally reporting, RAID tracking, and executive dashboards to provide
+                leadership visibility into delivery status, risks, dependencies, milestone progress,
+                and decisions requiring attention throughout the transformation.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Verizon Business | Irving, TX</h3>
+        <p class="role-meta">
+            <strong>Technical Delivery Manager, Enterprise Portfolios &amp; Technology Transformation | Jun 2019 – Jun 2023</strong>
+        </p>
+
+        <ul>
+            <li>
+                Led division-level technology initiatives across CRM modernization, DevOps delivery
+                practices, security compliance activities, and business intelligence improvements,
+                partnering with business and IT leaders to prioritize initiatives and coordinate execution.
+            </li>
+            <li>
+                Led delivery of a custom Corporate Portfolio Management (CPM) solution that integrated
+                internal applications with SaaS platforms, improving visibility into project status,
+                funding, resource planning, and delivery progress across the portfolio.
+            </li>
+            <li>
+                Led a cloud infrastructure enablement to support a strategic Master Data Model
+                initiative. Coordinated architecture, database, data engineering, DevOps, security,
+                and compliance teams to establish the required cloud environment.
+            </li>
+            <li>
+                Delivered an internal portfolio reporting platform that integrated PMO financial data,
+                delivery metrics, and operational information through APIs and automated ETL processes,
+                providing executives with improved visibility into initiative health from intake through completion.
+            </li>
+            <li>
+                Coordinated release readiness activities across multiple teams, including CI/CD deployments,
+                change management approvals, security reviews, and production implementation planning.
+            </li>
+            <li>
+                Supported annual and multi-year technology Strategic Planning by reviewing proposed
+                initiatives, assessing delivery dependencies, resource requirements, funding needs,
+                and business priorities, and helping leadership determine which initiatives should move forward.
+            </li>
+            <li>
+                Managed portfolio activities after budget allocation by tracking approved funding,
+                resource capacity, delivery milestones, risks, dependencies, vendor commitments,
+                and changes across multiple concurrent initiatives.
+            </li>
+            <li>
+                Maintained portfolio-level visibility into initiative health, funding status,
+                delivery progress, resource constraints, and dependencies, vendor challenges,
+                providing leadership with information needed to adjust priorities and address
+                issues affecting the broader portfolio.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Creospan (Contract) | Irving, TX</h3>
+        <p class="role-meta">
+            <strong>Senior IT Project Manager, Enterprise Program Management | Oct 2017 – May 2019</strong>
+        </p>
+
+        <ul>
+            <li>
+                Led Lead-to-Quote transformation initiatives for Verizon Business, coordinating
+                CRM enhancements, system integrations, and business process improvements
+                supporting commercial operations.
+            </li>
+            <li>
+                Worked with business leaders and engineering teams to align project plans, technical
+                dependencies, budgets, risks, and delivery milestones using Jira and Confluence reporting.
+            </li>
+            <li>
+                Established delivery governance practices supporting release readiness, production
+                deployment planning, change management, and communication across complex technical integrations.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>CB Consulting (Contract) | Lewisville, TX</h3>
+        <p class="role-meta">
+            <strong>Senior IT Project Manager | May 2016 – Oct 2016</strong>
+        </p>
+
+        <ul>
+            <li>
+                Managed a $1.1M telematics registration modernization program for Toyota Connected
+                North America, coordinating internal teams, external vendors, and delivery milestones
+                using a hybrid Agile-Waterfall approach.
+            </li>
+            <li>
+                Coordinated vendor activities, technical delivery planning, release readiness,
+                and production deployment activities while maintaining alignment with project
+                objectives and contractual commitments.
+            </li>
+            <li>
+                Aligned Agile sprint execution with scheduled release milestones, ensuring vendor
+                deliverables, technical dependencies, and implementation activities remained on track.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>Consulting Network Group (Contract) | Richardson, TX</h3>
+        <p class="role-meta">
+            <strong>Senior IT Project Manager, Data Migration &amp; Divestiture Lead | Jun 2015 – Mar 2016</strong>
+        </p>
+
+        <ul>
+            <li>
+                Co-directed data migration planning and execution for the Verizon to Frontier
+                Communications multi-state divestiture, supporting the transition of critical
+                wholesale telecom Order-to-Bill processes while maintaining business continuity.
+            </li>
+            <li>
+                Managed migration activities involving approximately 1.5M wholesale broadband records,
+                including data extraction, transformation, validation, mapping, and conversion activities
+                while maintaining data quality requirements and Master Data Management (MDM) standards.
+            </li>
+            <li>
+                Managed project planning, budget tracking, ETL coordination, SQL data validation activities,
+                data mapping reviews, mock conversion cycles, and executive milestone reporting throughout
+                the migration program.
+            </li>
+        </ul>
+    </article>
+
+    <article>
+        <h3>CVS Caremark | Richardson, TX</h3>
+        <p class="role-meta">
+            <strong>Senior Technical Project Manager, Advisor | Sep 2013 – Jun 2015</strong>
+        </p>
+
+        <ul>
+            <li>
+                Directed a $4M enterprise integration initiative connecting Blue Cross Blue Shield (BCBS)
+                Texas health plan data with Caremark PBM core systems to support benefit administration
+                and operational processing.
+            </li>
+            <li>
+                Led cross-functional teams delivering CRM enhancements, enterprise data migrations,
+                and third-party SaaS integrations while coordinating technical requirements,
+                delivery timelines, and healthcare compliance considerations.
+            </li>
+            <li>
+                Partnered with PMO leadership to improve delivery governance, risk tracking,
+                executive reporting, and stakeholder communication across complex healthcare
+                technology initiatives.
+            </li>
+            <li>
+                Published weekly executive program status reports through SharePoint using Planview data,
+                communicating delivery progress, RAID items, funding burn rate, PI milestone completion,
+                and key risks requiring leadership attention.
+            </li>
+        </ul>
+    </article>
+
+
+</section>
+
+<footer>
+    <p>
+        &copy; 2026 Al Monteiro | Technical Program Manager (TPM) |
+        Senior IT Project Manager | Dallas, TX Metroplex
+    </p>
+</footer>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Al Monteiro",
+    "jobTitle": "Technical Program Manager (TPM) / Senior IT Project Manager",
+    "url": "https://al-monteiro-tx.github.io/",
+    "image": "https://raw.githubusercontent.com/al-monteiro-tx/al-monteiro-tx.github.io/main/Al_Monteiro_Sr_Technical_Program_Manager_Dallas_TX.jpg",
+    "email": "mailto:al.monteiro.tx@gmail.com",
+    "telephone": "+1-972-693-3111",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dallas",
+        "addressRegion": "TX",
+        "addressCountry": "US"
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/al-monteiro-usa-tx-it-projectmanager9726933111",
+        "https://github.com/al-monteiro-tx"
+    ],
+    "alumniOf": [
+        {
+            "@type": "CollegeOrUniversity",
+            "name": "LeTourneau University"
+        }
+    ],
+    "knowsAbout": [
+        "Technical Program Management",
+        "Senior IT Project Management",
+        "Agile Delivery",
+        "Scaled Agile Framework",
+        "SAFe",
+        "Scrum",
+        "Software Development Lifecycle",
+        "SDLC",
+        "Waterfall Project Management",
+        "Hybrid SDLC",
+        "Stakeholder Management",
+        "Strategic Enterprise Roadmapping",
+        "Technology Transformation",
+        "CRM Modernization",
+        "Lead-to-Cash",
+        "Lead-to-Order",
+        "Lead-to-Quote",
+        "Quote-to-Order",
+        "SaaS Integration",
+        "API Integration",
+        "Cloud Infrastructure",
+        "DevOps",
+        "CI/CD",
+        "Data Migration",
+        "ETL",
+        "ELT",
+        "Master Data Management",
+        "MDM",
+        "Data Governance",
+        "Business Intelligence",
+        "Google Looker",
+        "Google Data Studio",
+        "SQL Familiarity",
+        "Order Management Systems",
+        "ERP",
+        "Business Support Systems",
+        "Executive Reporting",
+        "Vendor Management"
+    ],
+    "worksFor": {
+        "@type": "Organization",
+        "name": "Verge IT"
+    }
+}
+</script>
+
+</body>
+</html>
