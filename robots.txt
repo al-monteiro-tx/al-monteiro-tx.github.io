@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://al-monteiro-tx.github.io/sitemap.xml
-
-Host: al-monteiro-tx.github.io
