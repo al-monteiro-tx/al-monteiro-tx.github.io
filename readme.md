@@ -1,6 +1,6 @@
 # Al Monteiro
 
-**Technical Program Manager (TPM) | Senior IT Project Manager**
+**Technical Program Manager (TPM) | Senior IT Project Manager | Agile Delivery Manager in Dallas TX Metroplex**
 
 📍 Dallas, TX Metroplex &nbsp;|&nbsp; 📞 (972) 693-3111 &nbsp;|&nbsp; ✉️ [al.monteiro.tx@gmail.com](mailto:al.monteiro.tx@gmail.com)
 
