@@ -1,4 +1,5 @@
 Al Monteiro — Technical Program Manager | Senior IT Project Manager | Agile Delivery Manager
+al.monteiro.tx@gmail.com | 972-693-3111
 
 Dallas–Fort Worth, Texas | Technical Program Management | IT Project Management | Enterprise Technology Transformation
 
